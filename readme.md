@@ -1,5 +1,5 @@
 # Learning web development with PHP
-* PHP basics - 
+* PHP basics 
   *language basics
   *partials
   *system info
